@@ -29,7 +29,7 @@ go run index.go
 ```
 
 ## FizzBuzz Logic
-The programs in each language implement a loop that prints numbers from 1 to 100. If a number is a multiple of 3, it prints "Fizz." If a number is a multiple of 5, it prints "Buzz." If a number is a multiple of both 3 and 5, it prints "FizzBuzz."
+The programs in each language implement a loop that prints numbers from 1 to 100. If a number is a multiple of 3, it prints "Fizz" If a number is a multiple of 5, it prints "Buzz" If a number is a multiple of both 3 and 5, it prints "FizzBuzz"
 
 ## Additional Notes
 Make sure you have the necessary prerequisites installed on your machine before running the programs. If not, follow the links provided for each language to download and install the required tools.
